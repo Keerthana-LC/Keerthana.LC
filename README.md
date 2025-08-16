@@ -33,7 +33,7 @@ Final Year ECE Student | Exploring Embedded Systems &amp; Programming (C, Python
 
 ## 📫 Connect with Me  
 - 📧 Email: keerthanalc04@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in /keerthana-lc-04aa44250)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keerthana-lc-04aa44250)  
 - 🖥️ [GitHub](https://github.com/Keerthana-LC)  
 
 ---
